@@ -1,11 +1,10 @@
 ﻿
 using TMPro;
 using UnityEngine;
+using Playniax.Ignition.Framework;
 
 public class Score : MonoBehaviour
 {
-
-    public Player player;
     private TextMeshProUGUI text;
     // Update is called once per frame
     private void Start()
@@ -14,7 +13,8 @@ public class Score : MonoBehaviour
     }
     void Update()
     {
-        text.text = player.gold.ToString();
+        text.text = PlayerData.Get(0).scoreboard.ToString();
+        Debug.Log(PlayerData.Get(0).scoreboard);
     }
 
 }
