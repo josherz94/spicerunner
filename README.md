@@ -9,6 +9,7 @@ inventory system are planned for future implementations.
 
 ## Table of contents
 * [General info](#general-info)
+* [Power Drops](#power-drops)
 * [Screenshots](#screenshots)
 * [Technologies](#technologies)
 * [Setup](#setup)
