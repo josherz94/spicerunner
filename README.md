@@ -105,9 +105,10 @@ List of features ready and TODOs for future development
 
 To-do list:
 * tweak drop rates for enemies
+* fix clipping issues for tanks
 * turn the game into a rogue-like where dying will make you start from the beginning
 * add in an upgrade system to the ship that will carry over through deaths
-* make the game harder in general.
+* make the game harder in general
 * add more music
 * fine tune player controller
 
