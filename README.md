@@ -23,6 +23,11 @@ and makes you gain more points per mission to get to that next boss fight. The g
 that I made with bosca ceoil to give to coincide with it's a vibrant 16-bit feel.
 
 ## Power Drops 
+![Shield](https://github.com/josherz94/spicerunner/blob/master/Screenshots/shield.PNG?raw=true)
+![Phaser](https://github.com/josherz94/spicerunner/blob/master/Screenshots/phaser.PNG?raw=true)
+![Laser](https://github.com/josherz94/spicerunner/blob/master/Screenshots/laser.PNG?raw=true)
+![Ammo](https://github.com/josherz94/spicerunner/blob/master/Screenshots/ammo.PNG?raw=true)
+![Nuke](https://github.com/josherz94/spicerunner/blob/master/Screenshots/nuke.PNG?raw=true)
 
 ## Screenshots
 ![Example screenshot](./img/screenshot.png)
