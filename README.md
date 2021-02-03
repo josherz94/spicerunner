@@ -30,7 +30,7 @@ The Game is played using WASD keys to move the player around the map.
 The J key is used to flip the direction Vulcan is facing.
 The SPACE key is used to fire the ships main weapon.
 
-![Controls](https://github.com/josherz94/spicerunner/blob/master/Screenshots/controls.PNG?raw=true)
+![Controls](https://github.com/josherz94/spicerunner/blob/master/Screenshots/Controls.PNG?raw=true)
 
 ## Power Drops 
 There are five different items that may drop at random from enemies.
