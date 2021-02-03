@@ -23,10 +23,15 @@ and makes you gain more points per mission to get to that next boss fight. The g
 that I made with bosca ceoil to give to coincide with it's a vibrant 16-bit feel.
 
 ## Power Drops 
+* A shield generator that provides invincibility for a set amount of time:
 ![Shield](https://github.com/josherz94/spicerunner/blob/master/Screenshots/shield.PNG?raw=true)
+* An auto-locking phaser that tracks enemies:
 ![Phaser](https://github.com/josherz94/spicerunner/blob/master/Screenshots/phaser.PNG?raw=true)
+* A laser that fires in random directions:
 ![Laser](https://github.com/josherz94/spicerunner/blob/master/Screenshots/laser.PNG?raw=true)
+* Ammo for the Vulcan:
 ![Ammo](https://github.com/josherz94/spicerunner/blob/master/Screenshots/ammo.PNG?raw=true)
+* A nuke to decimate the enemies on the map:
 ![Nuke](https://github.com/josherz94/spicerunner/blob/master/Screenshots/nuke.PNG?raw=true)
 
 ## Screenshots
