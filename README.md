@@ -76,12 +76,12 @@ There are five different enemy types implemented so far excluding bosses.
 
 ## Screenshots
 
-![SS1](https://github.com/josherz94/spicerunner/blob/master/Screenshots/SS1.PNG?raw=true)
-![SS2](https://github.com/josherz94/spicerunner/blob/master/Screenshots/SS2.PNG?raw=true)
-![SS_Boss1](https://github.com/josherz94/spicerunner/blob/master/Screenshots/SS_Boss1.PNG?raw=true)
-![SS_Boss2](https://github.com/josherz94/spicerunner/blob/master/Screenshots/SS_Boss2.PNG?raw=true)
-![SS_Boss3](https://github.com/josherz94/spicerunner/blob/master/Screenshots/SS_Boss3.PNG?raw=true)
-![SS_Boss4](https://github.com/josherz94/spicerunner/blob/master/Screenshots/SS_Boss4.PNG?raw=true)
+![SS1](https://github.com/josherz94/spicerunner/blob/master/Screenshots/SS1.png?raw=true)
+![SS2](https://github.com/josherz94/spicerunner/blob/master/Screenshots/SS2.png?raw=true)
+![SS_Boss1](https://github.com/josherz94/spicerunner/blob/master/Screenshots/SS_Boss1.png?raw=true)
+![SS_Boss2](https://github.com/josherz94/spicerunner/blob/master/Screenshots/SS_Boss2.png?raw=true)
+![SS_Boss3](https://github.com/josherz94/spicerunner/blob/master/Screenshots/SS_Boss3.png?raw=true)
+![SS_Boss4](https://github.com/josherz94/spicerunner/blob/master/Screenshots/SS_Boss4.png?raw=true)
 
 ## Technologies
 * Unity Engine - version 2019.3.10f1 
