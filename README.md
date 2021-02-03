@@ -104,13 +104,16 @@ List of features ready and TODOs for future development
 * Custom made maps for each mission
 
 To-do list:
-* tweak drop rates for enemies
-* fix clipping issues for tanks
-* turn the game into a rogue-like where dying will make you start from the beginning
-* add in an upgrade system to the ship that will carry over through deaths
-* make the game harder in general
-* add more music
-* fine tune player controller
+* Tweak drop rates for enemies
+* Fix clipping issues for tanks
+* Turn the game into a rogue-like where dying will make you start from the beginning
+* Add in an upgrade system to the ship that will carry over through deaths
+* Implement inventory system
+* Store for making purchases
+* Scrap point system for a currency system
+* Make the game harder in general
+* Add more music
+* Fine tune player controller
 
 ## Status
 Project is: _in alpha stage_
