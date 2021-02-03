@@ -9,6 +9,7 @@ inventory system are planned for future implementations.
 
 ## Table of contents
 * [General info](#general-info)
+* [Game Controls](#game-controls)
 * [Power Drops](#power-drops)
 * [Enemies](#enemies)
 * [Screenshots](#screenshots)
@@ -23,6 +24,13 @@ inventory system are planned for future implementations.
 As of today there are a total of 3 missions with a boss battle at the end of each. Every mission is incrementally harder
 and makes you gain more points per mission to get to that next boss fight. The game comes included with a custom sound track
 that I made with bosca ceoil to give to coincide with it's a vibrant 16-bit feel.
+
+## Game Controls
+The Game is played using WASD keys to move the player around the map.
+The J key is used to flip the direction Vulcan is facing.
+The SPACE key is used to fire the ships main weapon.
+
+![Controls](https://github.com/josherz94/spicerunner/blob/master/Screenshots/controls.PNG?raw=true)
 
 ## Power Drops 
 There are five different items that may drop at random from enemies.
