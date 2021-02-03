@@ -10,6 +10,7 @@ inventory system are planned for future implementations.
 ## Table of contents
 * [General info](#general-info)
 * [Power Drops](#power-drops)
+* [Enemies](#enemies)
 * [Screenshots](#screenshots)
 * [Technologies](#technologies)
 * [Setup](#setup)
@@ -24,21 +25,46 @@ and makes you gain more points per mission to get to that next boss fight. The g
 that I made with bosca ceoil to give to coincide with it's a vibrant 16-bit feel.
 
 ## Power Drops 
-* A shield generator that provides invincibility for a set amount of time:
+There are five different items that may drop at random from enemies:
+
+* The Shield Generator - provides invincibility for a set amount of time:
 
 ![Shield](https://github.com/josherz94/spicerunner/blob/master/Screenshots/shield.PNG?raw=true)
-* An auto-locking phaser that tracks enemies:
+* The Phaser - Auto locks onto enemies for a short duration:
 
 ![Phaser](https://github.com/josherz94/spicerunner/blob/master/Screenshots/phaser.PNG?raw=true)
-* A laser that fires in random directions:
+* The Laser - fires in random directions, sure to hit a target at random:
 
 ![Laser](https://github.com/josherz94/spicerunner/blob/master/Screenshots/laser.PNG?raw=true)
-* Ammo for the Vulcan:
+* Ammo - Ammunition for Vulcan's default weapon:
 
 ![Ammo](https://github.com/josherz94/spicerunner/blob/master/Screenshots/ammo.PNG?raw=true)
-* A nuke to decimate the enemies on the map:
+* The Nuke: Decimate all enemies within the vicinity:
 
 ![Nuke](https://github.com/josherz94/spicerunner/blob/master/Screenshots/nuke.PNG?raw=true)
+
+## Enemies
+There are five different enemy types implemented so far excluding bosses:
+
+* The Tank - Don't let too many spawn because it will result in total chaos for you!
+
+![Tank](https://github.com/josherz94/spicerunner/blob/master/Screenshots/tank.PNG?raw=true)
+
+* The Soul Collector - Will try to locate you and sieze your ship!
+
+![Soul-Collector](https://github.com/josherz94/spicerunner/blob/master/Screenshots/soul_collector.PNG?raw=true)
+
+* The Mushroom - will tend to mob up and then attack Vulcan.
+
+![Mushroom](https://github.com/josherz94/spicerunner/blob/master/Screenshots/mushroom.PNG?raw=true)
+
+* The Mini Saucer - will home in on Vulcan rapidly
+
+![Mini-Saucer](https://github.com/josherz94/spicerunner/blob/master/Screenshots/mini_saucer.PNG?raw=true)
+
+* The Spider - Will rotate, firing rapidly in many directions! 
+
+![Spider](https://github.com/josherz94/spicerunner/blob/master/Screenshots/spider.PNG?raw=true)
 
 ## Screenshots
 ![Example screenshot](./img/screenshot.png)
