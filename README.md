@@ -25,7 +25,7 @@ and makes you gain more points per mission to get to that next boss fight. The g
 that I made with bosca ceoil to give to coincide with it's a vibrant 16-bit feel.
 
 ## Power Drops 
-There are five different items that may drop at random from enemies:
+There are five different items that may drop at random from enemies.
 
 * The Shield Generator - provides invincibility for a set amount of time:
 
@@ -44,7 +44,7 @@ There are five different items that may drop at random from enemies:
 ![Nuke](https://github.com/josherz94/spicerunner/blob/master/Screenshots/nuke.PNG?raw=true)
 
 ## Enemies
-There are five different enemy types implemented so far excluding bosses:
+There are five different enemy types implemented so far excluding bosses.
 
 * The Tank - Don't let too many spawn because it will result in total chaos for you!
 
@@ -56,7 +56,7 @@ There are five different enemy types implemented so far excluding bosses:
 
 * The Mushroom - will tend to mob up and then attack Vulcan.
 
-![Mushroom](https://github.com/josherz94/spicerunner/blob/master/Screenshots/mushroom.PNG?raw=true)
+![Mushroom](https://github.com/josherz94/spicerunner/blob/master/Screenshots/mushroom.png?raw=true)
 
 * The Mini Saucer - will home in on Vulcan rapidly
 
