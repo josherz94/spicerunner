@@ -122,4 +122,4 @@ Project is: _in alpha stage_
 Inspired by games such as Galactica and Space Invaders
 
 ## Contact
-Created by [@josherz94] - feel free to contact me!
+Created by [@josherz94] -- feel free to contact me!
